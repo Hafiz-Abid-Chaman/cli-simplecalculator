@@ -1,0 +1,23 @@
+{
+  "name": "@hafiz-abid-chaman/cli-simple-calculator",
+  "version": "2.2.4",
+  "description": "A simple calculator with TypeScript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hafiz Abid Chaman",
+  "license": "ISC",
+  "dependencies": {
+    "@hafiz-abid-chaman/cli-simple-calculator": "^2.0.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
