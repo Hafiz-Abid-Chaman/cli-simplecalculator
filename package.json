@@ -1,5 +1,5 @@
 {
-  "name": "@hafiz-abid-chaman/cli-simple-calculator",
+  "name": "@hafiz-abid-chaman/cli-simplecalculator",
   "version": "2.2.4",
   "description": "A simple calculator with TypeScript, Node.js and Inquirer",
   "main": "index.js",
@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@hafiz-abid-chaman/cli-simple-calculator": "^2.0.0",
+    "@hafiz-abid-chaman/cli-simplecalculator": "^2.2.4",
     "inquirer": "^9.2.22"
   },
   "devDependencies": {
